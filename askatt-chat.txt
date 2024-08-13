@@ -1,0 +1,6 @@
+can you write an html page, that shows a random question for the user with answer options to the user from the following collection, and if the user selects the correct question, add 100 points to his points tally
+
+if the user answers in a streak (IE previous question was also correct), add 10 more points for each correct answer in the streak
+
+, and show the user a different question he did not answer correctly. If the user answers incorrectly, show him a different question and reduce a life from his life tally (starts at 3). when the user's life is 0, stop showing questions, show the score tally and write please refresh to start again
+
